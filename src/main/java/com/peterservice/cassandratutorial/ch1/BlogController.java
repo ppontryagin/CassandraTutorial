@@ -2,7 +2,6 @@ package com.peterservice.cassandratutorial.ch1;
 
 import com.datastax.driver.core.Cluster;
 import com.datastax.driver.core.Session;
-import com.datastax.driver.core.exceptions.NoHostAvailableException;
 
 public class BlogController {
 
