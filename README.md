@@ -1,7 +1,7 @@
 CassandraTutorial
 =================
 
-# Tutorial project. #
+### Tutorial project. ###
 Store time series data and access them using web.
 
 - 1. Create schema
